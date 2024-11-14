@@ -1,7 +1,7 @@
 {
   "name": "@libs-jd/table-data-kit",
-  "description": "Modern Excel/XLSX parser and streaming capabilities",
-  "version": "1.0.13",
+  "description": "A library for utility functions to work with table data",
+  "version": "0.0.1",
   "homepage": "https://github.com/jeet-dhandha/table-data-kit",
   "author": "Jeet Dhandha",
   "license": "MIT",
@@ -30,12 +30,15 @@
   },
   "keywords": [
     "table",
-"table-data",
-"comparision",
-"comparator",
-"comperator",
-"data analysis",
-"data analytics",
-"data science"
-  ]
+    "table-data",
+    "comparision",
+    "comparator",
+    "comperator",
+    "data analysis",
+    "data analytics",
+    "data science"
+  ],
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
