@@ -1,6 +1,6 @@
 {
   "name": "@libs-jd/table-data-kit",
-  "description": "A library for utility functions to work with table data",
+  "description": "Utility functions to work with table data.",
   "version": "0.0.1",
   "homepage": "https://github.com/jeet-dhandha/table-data-kit",
   "author": "Jeet Dhandha",

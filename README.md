@@ -3,7 +3,7 @@
 
 # @libs-jd/table-data-kit [![npm version](https://badge.fury.io/js/@libs-jd%2Ftable-data-kit.svg)](https://badge.fury.io/js/@libs-jd%2Ftable-data-kit)
 
-> A library for utility functions to work with table data
+> Utility functions to work with table data.
 
 ## Install
 
